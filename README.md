@@ -4,6 +4,8 @@ This project delved into the realm of image classification asking the questions 
 
 The dataset used for all training was the publically available NIH dataset ! a comprehenisve powerful data source for training Deep learning classification models for Chest X-ray pathology detection.
 
+Please have a look at the images in this repo to see the models and application in action !
+
 The project achieved 75% mark. I hope you enjoy reading it !
 
 Many thanks,
